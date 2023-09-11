@@ -1,6 +1,6 @@
 # Maps
 
-Pls add the JSON value in `test.txt` to your localstorage of browser.
+Pls add the JSON value in `test.txt` to the localstorage of your browser.
 
 Run the maps.php
 
